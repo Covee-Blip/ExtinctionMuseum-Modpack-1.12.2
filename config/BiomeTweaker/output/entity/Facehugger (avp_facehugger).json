@@ -1,0 +1,6 @@
+
+{
+  "Name": "Facehugger",
+  "Registry ID": "avp:facehugger",
+  "Class": "org.avp.entities.living.species.xenomorphs.parasites.EntityFacehugger"
+}

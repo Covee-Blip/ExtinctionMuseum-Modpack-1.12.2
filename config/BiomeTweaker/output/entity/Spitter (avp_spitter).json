@@ -1,0 +1,6 @@
+
+{
+  "Name": "Spitter",
+  "Registry ID": "avp:spitter",
+  "Class": "org.avp.entities.living.species.xenomorphs.EntitySpitter"
+}

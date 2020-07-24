@@ -1,0 +1,6 @@
+
+{
+  "Name": "Hammerpede",
+  "Registry ID": "avp:hammerpede",
+  "Class": "org.avp.entities.living.vardic.EntityHammerpede"
+}

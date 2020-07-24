@@ -1,0 +1,6 @@
+
+{
+  "Name": "SpaceJockey",
+  "Registry ID": "avp:spacejockey",
+  "Class": "org.avp.entities.living.species.engineer.EntitySpaceJockey"
+}

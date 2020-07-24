@@ -1,0 +1,6 @@
+
+{
+  "Name": "varodd:nether_golem",
+  "Registry ID": "varodd:nether_golem",
+  "Class": "com.lying.variousoddities.entity.hostile.EntityGolemNether"
+}

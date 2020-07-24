@@ -1,0 +1,6 @@
+
+{
+  "Name": "Marine",
+  "Registry ID": "avp:marine",
+  "Class": "org.avp.entities.living.EntityMarine"
+}
