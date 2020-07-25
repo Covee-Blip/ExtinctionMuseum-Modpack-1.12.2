@@ -13,3 +13,4 @@ experience
 -nest prerelease
 -gravitational anomaly from matteroverdrive disabled-might improve fps
 -Techguns config checked and changed, may need to make structure spawns rarer
+-removed simply lights mod
