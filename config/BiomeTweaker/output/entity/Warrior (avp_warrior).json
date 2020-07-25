@@ -1,0 +1,6 @@
+
+{
+  "Name": "Warrior",
+  "Registry ID": "avp:warrior",
+  "Class": "org.avp.entities.living.species.xenomorphs.EntityWarrior"
+}

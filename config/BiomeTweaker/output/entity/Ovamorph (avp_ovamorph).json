@@ -1,0 +1,6 @@
+
+{
+  "Name": "Ovamorph",
+  "Registry ID": "avp:ovamorph",
+  "Class": "org.avp.entities.living.species.xenomorphs.EntityOvamorph"
+}

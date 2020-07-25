@@ -1,0 +1,6 @@
+
+{
+  "Name": "CombatSynthetic",
+  "Registry ID": "avp:combatsynthetic",
+  "Class": "org.avp.entities.living.EntityCombatSynthetic"
+}

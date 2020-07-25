@@ -1,0 +1,6 @@
+
+{
+  "Name": "Drone",
+  "Registry ID": "avp:drone",
+  "Class": "org.avp.entities.living.species.xenomorphs.EntityDrone"
+}

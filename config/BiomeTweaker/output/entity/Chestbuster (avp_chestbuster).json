@@ -1,0 +1,6 @@
+
+{
+  "Name": "Chestbuster",
+  "Registry ID": "avp:chestbuster",
+  "Class": "org.avp.entities.living.species.xenomorphs.EntityChestburster"
+}

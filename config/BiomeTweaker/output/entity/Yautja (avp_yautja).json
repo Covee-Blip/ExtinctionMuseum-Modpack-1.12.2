@@ -1,0 +1,6 @@
+
+{
+  "Name": "Yautja",
+  "Registry ID": "avp:yautja",
+  "Class": "org.avp.entities.living.species.yautja.EntityYautjaWarrior"
+}
