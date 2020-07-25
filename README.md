@@ -9,3 +9,6 @@ This modpack is focused on capturing Mobs to display in a museum or
 area 51 style base, Mobs from top Mods, and a neat mod called various oddities
 AlienvsPredator Mod is also installed tom complete maybe a total area 51
 experience
+
+-nest prerelease
+-gravitational anomaly from matteroverdrive disabled-might improve fps
