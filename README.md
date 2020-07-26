@@ -10,21 +10,5 @@ area 51 style base, Mobs from top Mods, and a neat mod called various oddities
 AlienvsPredator Mod is also installed tom complete maybe a total area 51
 experience
 
--next prerelease
-
--gravitational anomaly from matteroverdrive disabled-might improve fps
-
--Techguns config checked and changed, may need to make structure spawns rarer
-
--removed simply lights mod
-
-+dimesional Pockets mod
-
--removed roguelikedungeonsfnar mod
-
-+added Mods
-
-Astral Sorcery
-Thaumicadditions
-ThaumicAugmentation
-ThaumicWands
+Updated Astralsorcery configs
+"AlienvsPredator configs"
