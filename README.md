@@ -12,3 +12,4 @@ experience
 
 Updated Astralsorcery configs
 "AlienvsPredator configs"
+Updated Matteroverdrive- anomalie configs -should stop overspawning
