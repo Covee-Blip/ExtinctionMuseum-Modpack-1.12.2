@@ -16,3 +16,8 @@ Updated Matteroverdrive- anomalie configs -should stop overspawning
 -fixed overspawn fossil ore- fossils and archeology
 -added dimensional ore to cofh world Generate
 fixed draconic ore gen, now controlled by Cofh
+
+updated abyssalcraft- new config generated =distance between shogoth lairs
+implemented
+
+Updated Advanced Rocketry
