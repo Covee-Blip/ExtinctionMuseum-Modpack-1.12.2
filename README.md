@@ -15,3 +15,4 @@ experience
 -Techguns config checked and changed, may need to make structure spawns rarer
 -removed simply lights mod
 +dimesional Pockets mod
+-removed roguelikedungeonsfnar mod

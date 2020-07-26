@@ -1,0 +1,3 @@
+Quark world gen lagg-- possible fix- turn off various stone gen
+recurrent complex - world gen lag
+roguelike Dungeons- removed excessive cascading world gen lag
