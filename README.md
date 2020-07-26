@@ -16,3 +16,5 @@ experience
 -removed simply lights mod
 +dimesional Pockets mod
 -removed roguelikedungeonsfnar mod
+-add astral sorcery
+-add many thaumcraft mods???
