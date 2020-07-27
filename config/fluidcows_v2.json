@@ -73,7 +73,7 @@
   },
   "ic2distilled_water": {
     "SpawnRate": 100,
-    "IsEnabled": true,
+    "IsEnabled": false,
     "WorldCooldown": 4000,
     "StallCooldown": 4000,
     "BreedingChance": 50,
@@ -128,7 +128,7 @@
   },
   "clay": {
     "SpawnRate": 100,
-    "IsEnabled": true,
+    "IsEnabled": false,
     "WorldCooldown": 4000,
     "StallCooldown": 4000,
     "BreedingChance": 50,
