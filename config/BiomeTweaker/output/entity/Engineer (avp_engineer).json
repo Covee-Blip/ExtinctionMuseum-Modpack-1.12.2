@@ -1,6 +1,0 @@
-
-{
-  "Name": "Engineer",
-  "Registry ID": "avp:engineer",
-  "Class": "org.avp.entities.living.species.engineer.EntityEngineer"
-}

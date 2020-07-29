@@ -1,6 +1,0 @@
-
-{
-  "Name": "RunnerDrone",
-  "Registry ID": "avp:runnerdrone",
-  "Class": "org.avp.entities.living.species.xenomorphs.EntityRunnerDrone"
-}
