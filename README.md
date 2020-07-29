@@ -21,3 +21,6 @@ updated abyssalcraft- new config generated =distance between shogoth lairs
 implemented
 
 Updated Advanced Rocketry
+
+29th- Updated securitycraft
++Updated simply Jetpacks 2
