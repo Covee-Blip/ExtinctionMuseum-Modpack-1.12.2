@@ -1,4 +1,4 @@
-#modloaded advGenerators
+#modloaded advgenerators
 
 print("--- loading AdvancedGenerators.zs ---");
 
